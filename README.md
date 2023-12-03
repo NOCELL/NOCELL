@@ -13,3 +13,9 @@
 
 - MVP of VK Steps (1M+ DAU) [app](https://vk.com/steps) [press release](https://vk.com/main.php?subdir=press&subsubdir=steps)
 - Teleform - simple form builder on Telegram Mini Apps platform [docs](https://docs.teleform.app/)
+
+# My achivements:
+
+- Contribution to [Next.js](https://github.com/vercel/next.js/pull/33306)
+- Migration to **pnpm** all of [kinopoisk](https://kinopoisk.ru) monorepos
+- Winning prizes in contest: [Telegram Mini Apps](https://t.me/contest/344) [Hack-a-TON](https://t.me/toncontests/45)
