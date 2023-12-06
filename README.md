@@ -3,7 +3,7 @@
 
 - 👨‍💻 6 years in JavaScript, 5 years in frontend development
 
-- 📫 Connect with me [email](mailto:zuev.oleg21@gmail.com) [telegram](https://t.me/nocell)
+- 📫 Connect with me [email](mailto:me@zuev.io) [telegram](https://t.me/nocell)
 
 - 📄 Know about my experiences [CV](https://www.linkedin.com/in/oleg-zuev-baa1921b2/)
 
