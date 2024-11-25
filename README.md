@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Oleg Zuev</h1>
 <h3 align="center">frontend tech surfer</h3>
 
-- 👨‍💻 6 years in JavaScript, 5 years in frontend development
+- 👨‍💻 7 years in JavaScript, 6 years in frontend development
 
 - 📫 Connect with me [email](mailto:me@zuev.io) [telegram](https://t.me/nocell)
 
